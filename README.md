@@ -1,5 +1,9 @@
 # Prosthetic
 Getting setup:
-1) Set up Python
-2) Install pygame: ```pip install pygame```
-3) Install pymunk: ```pip install pymunk```
+- Obviously you need Python my guy like it's literally all Python just for lil Kev
+=== Simulation ===
+```pip install pygame```
+```pip install pymunk```
+=== Pose Estimation ==
+```pip install OpenCV-python```
+```pip install mediapipe```
