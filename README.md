@@ -1,7 +1,5 @@
 # Prosthetic
 Getting setup:
-- Obviously you need Python my guy like it's literally all Python just for lil Kev
-- I love python
 
 === Simulation ===
 
